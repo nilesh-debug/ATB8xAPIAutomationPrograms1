@@ -26,3 +26,11 @@
 
 # How to run project
 
+### Dependencies
+- Rest assured
+- TestNG
+- Exten Report
+- Jackson API / GSON
+- Apache POI or Fillow (Excel)
+- Log4j - Logs
+
